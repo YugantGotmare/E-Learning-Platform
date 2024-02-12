@@ -1,4 +1,4 @@
-## *learnhub* - A Django-based elearning-platform to maintain all your study-related stuff clustered at one place.
+## *E-Learning Platform* - A Django-based elearning-platform to maintain all your study-related stuff clustered at one place.
 
 ### Features :
 1. **Assignments** - Add assignments to the list, prioritizing them by their deadlines.
